@@ -11,7 +11,7 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/helene-blanche) 
 
-:grinning: [MyPortFolio](https://heleneb.netlify.app/)
+:grinning: [MyPortFolio](https://heleneb.netlify.app/) :raised_hand_with_fingers_splayed:
 
 
 # 💻 Tech Stack:
