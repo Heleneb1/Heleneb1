@@ -1,15 +1,15 @@
 ### Hi there 👋
 
 # 💫 About Me:
-- 🔭 I’m currently working on react
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on React or Angular
+- 🌱 I’m currently learning javascipt, typescript and Java
 - 😄 Pronouns: ...
 - ⚡ Fun fact: All it's funny 
 
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/helene-blanche) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/helene-blanche) 
 
 :grinning: [MyPortFolio](https://heleneb.netlify.app/) :raised_hand_with_fingers_splayed:
 
