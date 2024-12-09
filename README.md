@@ -17,7 +17,11 @@
     🌱 Currently learning **JavaScript**, **TypeScript**, **Java**, and **Python** to keep growing as a developer.  
     😄 Pronouns: She/Her  
     ⚡ Fun fact: Everything can be funny, sometimes in hindsight...
-    
+
+  ## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Heleneb1&theme=dracula&no-frame=true&no-bg=false&margin-w=4)  
+
+
 > ### "In every old person, there is a young person wondering what the hell happened." — Groucho Marx
 
 </div>
@@ -25,7 +29,8 @@
 
  
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/helene-blanche)[![GitHub](https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/Heleneb1)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/helene-blanche)
+[![GitHub](https://img.shields.io/badge/Github-%2324292e.svg?logo=github&logoColor=white)](https://github.com/Heleneb1)
 
 ## My Portfolio
 <a href="https://heleneb.netlify.app/" target="_blank">
@@ -36,6 +41,7 @@
 
 
 ## 🖥️ Tech Stack: 
+
 <table>
   <tr>
     <td valign="top" width="33%">
@@ -87,7 +93,6 @@
   </tr>
 </table>
 
-
 # 📊 GitHub Stats:
 
 <div align="center">
@@ -104,7 +109,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Heleneb1&limit=5&theme=dracula&combine_all_yearly_contributions=true)
 
 </div>
-
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Heleneb1&icon=0&color=6)](https://visitcount.itsvg.in)
