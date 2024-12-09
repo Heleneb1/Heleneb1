@@ -19,7 +19,10 @@
     ⚡ Fun fact: Everything can be funny, sometimes in hindsight...
 
   ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Heleneb1&theme=dracula&no-frame=true&no-bg=false&margin-w=4)  
+  <img 
+  src="https://github-profile-trophy.vercel.app/?username=Heleneb1&theme=dracula&no-frame=true&no-bg=false&margin-w=5&row=1&column=8" 
+  alt="GitHub Trophies" style="width: 100%; max-width: 800px; height: auto;"/>
+
 
 
 > ### "In every old person, there is a young person wondering what the hell happened." — Groucho Marx
@@ -46,7 +49,7 @@
   <tr>
     <td valign="top" width="33%">
       <h3>Frontend</h3>
-      <div style="display: flex; flex-wrap: wrap; gap: 10px;">
+      <div style="width: 100%; max-width: 800px; height: auto;">
       <div align="center">
         <a href="https://angular.io" target="_blank"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" height="30" /></a>
         <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" alt="React"height="30"  /></a>
