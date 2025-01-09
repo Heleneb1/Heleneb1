@@ -76,6 +76,7 @@
         <a href="https://php.net/" target="_blank"><img src="https://www.php.net/images/logos/new-php-logo.svg" alt="PHP" height="30"  /></a>
         <a href="https://symfony.com/" target="_blank"><img src="https://symfony.com/logos/symfony_black_03.png" alt="Symfony" height="30"  /></a>
         <a href="https://expressjs.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="Express.js" height="30"  /></a>
+        <a href="https://www.python.org" target="_blank"><img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" height="30"  /></a>
       </div>
     </td>
     <td valign="top" width="33%">
