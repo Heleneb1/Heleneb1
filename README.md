@@ -40,6 +40,10 @@
   <img src="https://github.com/Heleneb1/MyPortFolio/blob/dev/src/assets/Projets/myPortfolio.png" alt="Portfolio" />
 </a>
 
+## My Favorite Website
+<a href="https://app.lesmysteresdelegypteantique.fr/" target="_blank">
+  <img src="https://github.com/Heleneb1/MyPortFolio/blob/dev/src/assets/Projets/egypt.png" alt="Les Mystères de l'Egypte antique" />
+</a>
  
 
 
